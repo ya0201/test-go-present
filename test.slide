@@ -14,3 +14,15 @@ me@abc.com
 - 人の生，それはすなわち人生
 - 人間らしい人生が必要とされている
 : This is ほげほげ
+
+* Gopherくん
+- これはかわいいGopherくんの画像（画像の元サイズ）
+.image img.png
+
+* Gopherくん（リサイズ）
+- これはかわいいGopherくんの画像（画像の元サイズ）
+.image img.png 600 600
+
+* ソースの埋め込み
+- これはこのスライドのソース
+.code test.slide
