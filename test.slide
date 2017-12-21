@@ -17,11 +17,11 @@ me@abc.com
 
 * Gopherくん
 - これはかわいいGopherくんの画像（画像の元サイズ）
-.image img.jpg
+.image images/img.jpg
 
 * Gopherくん（リサイズ）
 - これはかわいいGopherくんの画像（画像の元サイズ）
-.image img.jpg 600 600
+.image images/img.jpg 600 600
 
 * ソースの埋め込み
 - これはこのスライドのソース
